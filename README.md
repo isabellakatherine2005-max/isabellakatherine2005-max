@@ -34,22 +34,6 @@ My experience includes working closely with Business and Technology teams to ide
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/isabellakatherine2005-max">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=isabellakatherine2005-max&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile&hide_border=true" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/isabellakatherine2005-max">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellakatherine2005-max&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Languages"/>
-</a>
-
-</div>
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### 💻 Programming & Development
