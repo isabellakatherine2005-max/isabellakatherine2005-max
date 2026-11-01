@@ -1,5 +1,4 @@
-# 👋 Hi! I'm Isabella Katherine
-
+# 👋 Hii! I'm Isabella Katherine
 ### 🎓 Systems Analysis and Development Student | Junior QA Analyst
 
 💻 I'm a Systems Analysis and Development student with professional experience in B2B Digital Platforms, focusing on Software Quality Assurance, functional testing, system validation, and requirements analysis.
@@ -7,7 +6,6 @@
 🚀 Currently expanding my knowledge of Quality Assurance (QA), API testing, SQL, test automation, and software development.
 
 🇧🇷 Based in Curitiba, Paraná, Brazil.
-
 ---
 
 ## 👩‍💻 About Me
@@ -21,7 +19,6 @@
 - 🤝 Experience collaborating with Business and Technology teams.
 
 **My goal:** To grow in the Software Quality Assurance field and contribute to building more reliable, functional, and efficient software solutions.
-
 ---
 
 ## 🛠️ Technologies & Tools
@@ -33,7 +30,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### QA & Testing
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -47,15 +43,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
 ---
-
 ## 🚀 Featured Projects
-
 ### 📊 Orbit Analytics
 
 A web application for importing and analyzing campaign data from CSV files.
-
 - Data normalization and column processing.
 - Interactive metrics visualization and campaign comparison.
 - CSV and PDF report exports.
