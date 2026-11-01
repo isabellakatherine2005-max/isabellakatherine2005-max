@@ -2,9 +2,13 @@
 <div align="center">
 
 # 👋 Hi! I'm Isabella Katherine
+
 ### 🎓 Systems Analysis and Development Student | Junior QA Analyst
+
 **Software Quality Assurance • Functional Testing • API Testing • B2B Platforms**
+
 Curitiba, Paraná, Brazil 🇧🇷
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-DB5A83?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-katherine-alves-xavier-52693623a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabellakatherine2005-max)
 
@@ -30,22 +34,17 @@ My experience includes working closely with Business and Technology teams to ide
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellakatherine2005-max&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile&hide_border=true" alt="GitHub Stats"/>
+<a href="https://github.com/isabellakatherine2005-max">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=isabellakatherine2005-max&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile&hide_border=true" alt="GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellakatherine2005-max&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Languages"/>
-
-</div>
-
----
-
-
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=isabellakatherine2005-max&theme=radical&no-frame=true&row=1&column=6"/>
+<a href="https://github.com/isabellakatherine2005-max">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellakatherine2005-max&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Languages"/>
+</a>
 
 </div>
 
@@ -131,6 +130,7 @@ A business data lookup project that uses Brazilian company registration numbers 
 - Data Analysis
 
 ---
+
 ## 📬 Let's Connect!
 
 <div align="center">
@@ -140,7 +140,8 @@ A business data lookup project that uses Brazilian company registration numbers 
 [![Email](https://img.shields.io/badge/Email-DB5A83?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellakatherine2005@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabellakatherine2005-max)
----
+
+<br/>
 
 ⭐ *Learning, building, testing, and improving one project at a time.*
 
