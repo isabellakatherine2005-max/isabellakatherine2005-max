@@ -7,7 +7,6 @@
 
 🇧🇷 Based in Curitiba, Paraná, Brazil.
 ---
-
 ## 👩‍💻 About Me
 
 - 🎓 Currently pursuing a degree in Systems Analysis and Development at UNIASSELVI.
@@ -20,9 +19,7 @@
 
 **My goal:** To grow in the Software Quality Assurance field and contribute to building more reliable, functional, and efficient software solutions.
 ---
-
 ## 🛠️ Technologies & Tools
-
 ### Programming & Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,7 +48,6 @@ A web application for importing and analyzing campaign data from CSV files.
 - Data normalization and column processing.
 - Interactive metrics visualization and campaign comparison.
 - CSV and PDF report exports.
-
 **Technologies:** HTML, CSS, JavaScript, Chart.js, jsPDF, and SheetJS.
 
 🔗 [Explore the project](https://orbitflow.com)
