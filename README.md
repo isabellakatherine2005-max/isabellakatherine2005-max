@@ -15,13 +15,10 @@ Curitiba, Paraná, Brazil 🇧🇷
 </div>
 
 ---
-
 ## 👩‍💻 About Me
-
 I'm a Systems Analysis and Development student with professional experience in B2B Digital Platforms, focusing on Software Quality Assurance, functional testing, system validation, and requirements analysis.
 
 My experience includes working closely with Business and Technology teams to identify system issues, validate improvements, document requirements, and contribute to delivering reliable digital solutions.
-
 - 🎓 Currently pursuing a degree in Systems Analysis and Development at UNIASSELVI.
 - 🔍 Experience with functional testing and validation in DEV, HML, and Production environments.
 - 🐞 Skilled in identifying, reproducing, documenting, and tracking software bugs.
@@ -31,7 +28,6 @@ My experience includes working closely with Business and Technology teams to ide
 - 🤝 Experience collaborating with Business, Development, Support, and Technology teams.
 
 **Career Goal:** To grow in Software Quality Assurance, strengthen my technical skills, and contribute to building reliable, efficient, and high-quality software solutions.
-
 ---
 
 ## 🛠️ Technologies & Tools
@@ -86,11 +82,8 @@ A business data lookup project that uses Brazilian company registration numbers 
 - Supabase Edge Functions.
 - Input validation and error handling.
 - REST API communication.
-
 **Technologies:** HTML, CSS, JavaScript, Supabase, REST APIs.
-
 ---
-
 ## 📚 Currently Learning
 
 - API testing and validation with Postman.
@@ -100,9 +93,7 @@ A business data lookup project that uses Brazilian company registration numbers 
 - Python for data analysis and automation.
 - Git, GitHub, and software development best practices.
 - Agile methodologies and software quality assurance.
-
 ---
-
 ## 🎯 Professional Interests
 
 - Software Quality Assurance (QA)
@@ -112,9 +103,7 @@ A business data lookup project that uses Brazilian company registration numbers 
 - Quality Engineering
 - Digital Platforms and E-commerce
 - Data Analysis
-
 ---
-
 ## 📬 Let's Connect!
 
 <div align="center">
