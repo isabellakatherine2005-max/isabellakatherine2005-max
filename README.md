@@ -1,81 +1,150 @@
-# 👋 Hii! I'm Isabella Katherine
+
+<div align="center">
+
+# 👋 Hi! I'm Isabella Katherine
+
 ### 🎓 Systems Analysis and Development Student | Junior QA Analyst
 
-💻 I'm a Systems Analysis and Development student with professional experience in B2B Digital Platforms, focusing on Software Quality Assurance, functional testing, system validation, and requirements analysis.
+**Software Quality Assurance • Functional Testing • API Testing • B2B Platforms**
 
-🚀 Currently expanding my knowledge of Quality Assurance (QA), API testing, SQL, test automation, and software development.
+Curitiba, Paraná, Brazil 🇧🇷
 
-🇧🇷 Based in Curitiba, Paraná, Brazil.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-DB5A83?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-katherine-alves-xavier-52693623a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabellakatherine2005-max)
+
+</div>
+
 ---
+
 ## 👩‍💻 About Me
 
-- 🎓 Currently pursuing a degree in Systems Analysis and Development at UNIASSELVI.
-- 🔍 Hands-on experience with functional testing and validation of B2B platforms.
-- 🐞 Experienced in identifying, reproducing, documenting, and tracking software bugs.
-- 📋 Experience writing User Stories, business requirements, and business rules.
-- 🔌 Knowledge of Postman and REST APIs.
-- 📊 Experience with data analysis, SQL, and Python.
-- 🤝 Experience collaborating with Business and Technology teams.
+I'm a Systems Analysis and Development student with professional experience in B2B Digital Platforms, focusing on Software Quality Assurance, functional testing, system validation, and requirements analysis.
 
-**My goal:** To grow in the Software Quality Assurance field and contribute to building more reliable, functional, and efficient software solutions.
+My experience includes working closely with Business and Technology teams to identify system issues, validate improvements, document requirements, and contribute to delivering reliable digital solutions.
+
+- 🎓 Currently pursuing a degree in Systems Analysis and Development at UNIASSELVI.
+- 🔍 Experience with functional testing and validation in DEV, HML, and Production environments.
+- 🐞 Skilled in identifying, reproducing, documenting, and tracking software bugs.
+- 📋 Experience writing User Stories, business requirements, and business rules.
+- 🔌 Knowledge of Postman, REST APIs, and API validation.
+- 📊 Knowledge of SQL, Python, and data analysis.
+- 🤝 Experience collaborating with Business, Development, Support, and Technology teams.
+
+**Career Goal:** To grow in Software Quality Assurance, strengthen my technical skills, and contribute to building reliable, efficient, and high-quality software solutions.
+
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellakatherine2005-max&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellakatherine2005-max&layout=compact&theme=radical&langs_count=8&hide_border=true"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=isabellakatherine2005-max&theme=radical&hide_border=true"/>
+
+<br/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=isabellakatherine2005-max&theme=radical&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
 ## 🛠️ Technologies & Tools
-### Programming & Development
+
+### 💻 Programming & Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-### QA & Testing
+
+### 🔎 QA & Software Testing
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Software Testing](https://img.shields.io/badge/Software_Testing-2E8B57?style=for-the-badge)
+![Software Testing](https://img.shields.io/badge/Software_Testing-DB5A83?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Data & Tools
+### 📊 Data & Tools
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
 ---
+
 ## 🚀 Featured Projects
+
 ### 📊 Orbit Analytics
 
-A web application for importing and analyzing campaign data from CSV files.
+A web application designed to import, process, and analyze campaign data from CSV files.
+
+**Key Features:**
 - Data normalization and column processing.
-- Interactive metrics visualization and campaign comparison.
+- Interactive metrics visualization.
+- Campaign performance comparison.
 - CSV and PDF report exports.
-**Technologies:** HTML, CSS, JavaScript, Chart.js, jsPDF, and SheetJS.
-🔗 [Explore the project](https://orbitflow.com)
+
+**Technologies:** HTML, CSS, JavaScript, Chart.js, jsPDF, SheetJS.
+
+🔗 [Explore Orbit Analytics](https://orbitflow.com)
 
 ### 🔎 OrbitFlow
 
-A business data lookup project using Brazilian company registration numbers (CNPJ).
+A business data lookup project that uses Brazilian company registration numbers (CNPJ) to retrieve and process company information.
+
+**Key Features:**
 - Integration with BrasilAPI.
 - Supabase Edge Functions.
 - Input validation and error handling.
-**Technologies:** HTML, CSS, JavaScript, Supabase, and REST APIs.
----
-## 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabellakatherine2005-max&show_icons=true&theme=tokyonight&hide_border=true)
+- REST API communication.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellakatherine2005-max&layout=compact&theme=tokyonight&hide_border=true)
+**Technologies:** HTML, CSS, JavaScript, Supabase, REST APIs.
+
 ---
+
 ## 📚 Currently Learning
-- API testing with Postman.
-- Software test automation fundamentals.
-- SQL and database management.
-- Python for data analysis.
-- Git, GitHub, and development best practices.
-- Software quality and Agile methodologies.
+
+- API testing and validation with Postman.
+- Software testing methodologies and test case design.
+- Fundamentals of test automation.
+- SQL queries and database management.
+- Python for data analysis and automation.
+- Git, GitHub, and software development best practices.
+- Agile methodologies and software quality assurance.
+
+---
+
+## 🎯 Professional Interests
+
+- Software Quality Assurance (QA)
+- Manual and Functional Testing
+- API Testing
+- Software Requirements Analysis
+- Quality Engineering
+- Digital Platforms and E-commerce
+- Data Analysis
+
 ---
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-katherine-alves-xavier-52693623a/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellakatherine2005@gmail.com)
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabellakatherine2005-max)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DB5A83?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-katherine-alves-xavier-52693623a/)
 
+[![Email](https://img.shields.io/badge/Email-DB5A83?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellakatherine2005@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabellakatherine2005-max)
 ---
 
-⭐ *Learning, building, and growing one project at a time.*
+⭐ *Learning, building, testing, and improving one project at a time.*
+
+</div>
