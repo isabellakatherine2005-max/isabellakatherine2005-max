@@ -2,13 +2,9 @@
 <div align="center">
 
 # 👋 Hi! I'm Isabella Katherine
-
 ### 🎓 Systems Analysis and Development Student | Junior QA Analyst
-
 **Software Quality Assurance • Functional Testing • API Testing • B2B Platforms**
-
 Curitiba, Paraná, Brazil 🇧🇷
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-DB5A83?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-katherine-alves-xavier-52693623a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabellakatherine2005-max)
 
@@ -34,19 +30,20 @@ My experience includes working closely with Business and Technology teams to ide
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellakatherine2005-max&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellakatherine2005-max&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile&hide_border=true" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellakatherine2005-max&layout=compact&theme=radical&langs_count=8&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellakatherine2005-max&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Languages"/>
 
-<br/>
+</div>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=isabellakatherine2005-max&theme=radical&hide_border=true"/>
+---
 
-<br/>
+
 
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=isabellakatherine2005-max&theme=radical&no-frame=true&row=1&column=6"/>
 
